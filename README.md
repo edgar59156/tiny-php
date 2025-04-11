@@ -1,3 +1,3 @@
 # tiny-php
-A tiny php framework
+A Tiny php framework
 

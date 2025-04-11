@@ -1,0 +1,14 @@
+{
+    "name": "edgar/tiny-php",
+    "autoload": {
+        "psr-4": {
+            "Tiny\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edgar59156"
+        }
+    ],
+    "require": {}
+}
